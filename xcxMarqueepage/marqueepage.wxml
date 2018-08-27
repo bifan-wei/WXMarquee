@@ -1,0 +1,6 @@
+<view class="rollCon">
+ <view class='box'> 
+ <view class='text'style='left:{{offsetLeft}}px' >{{text}}</view>
+</view>
+</view>
+
