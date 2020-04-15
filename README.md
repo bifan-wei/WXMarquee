@@ -5,7 +5,9 @@
 
 #### 注意！注意！这是两年前写的一个demo，还不是完整工程！！只是提供个思路，觉得有用就看，不维护的！
 <br>
+
 ![image](https://github.com/bifan-wei/WXMarquee/blob/master/pic.gif)
+
 <br>
 <br>
 我的博客来源：https://blog.csdn.net/u014614038/article/details/82117764
